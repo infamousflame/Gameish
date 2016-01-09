@@ -458,6 +458,7 @@ public int idleCount(boolean in){
 		secondcounter = 0;
 	}
 	if(secondcounter > 200){
+		System.out.println("idle");
 	}
 	
 	return secondcounter;
