@@ -458,7 +458,7 @@ public int idleCount(boolean in){
 		secondcounter = 0;
 	}
 	if(secondcounter > 200){
-		heroImage = ImageGet.getImage("Idle 2");
+		
 	}
 	
 	return secondcounter;
