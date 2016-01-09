@@ -62,4 +62,3 @@ public class Bullet{
 	}
 	
 }
-//there is no god
